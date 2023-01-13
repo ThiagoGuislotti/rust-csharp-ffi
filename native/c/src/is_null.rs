@@ -1,3 +1,4 @@
+/*
 use failure_derive::*;
 
 #[derive(Debug, Fail)]
@@ -44,3 +45,4 @@ impl IsNull for super::DbKey {
 }
 
 never_null!(usize, isize, u8, u16, u32, u64, u128, i8, i16, i32, i64, i128, bool);
+*/

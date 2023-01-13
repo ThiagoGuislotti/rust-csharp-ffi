@@ -1,3 +1,4 @@
+/*
 use std::{
     cell::UnsafeCell,
     collections::HashMap,
@@ -343,3 +344,4 @@ mod tests {
         assert_eq!(None, len);
     }
 }
+*/

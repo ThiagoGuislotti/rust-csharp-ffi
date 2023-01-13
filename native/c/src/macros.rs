@@ -1,3 +1,4 @@
+/*
 /**
 Wrap an FFI function.
 
@@ -54,3 +55,4 @@ macro_rules! ffi_no_catch {
         )*
     };
 }
+*/

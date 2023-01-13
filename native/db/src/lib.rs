@@ -1,7 +1,7 @@
 // Unsafe is explicitly allowed through `unsafe_*` macros
 #![deny(unsafe_code)]
 // For converting Rust results into FFI results
-#![feature(try_trait)]
+//#![feature(try_trait)]
 
 #[macro_use]
 extern crate rental;

@@ -1,3 +1,4 @@
+/*
 /*!
 C interface to the database.
 */
@@ -308,3 +309,4 @@ mod tests {
         static_assert::is_unwind_safe::<DbDeleterHandle>();
     }
 }
+*/

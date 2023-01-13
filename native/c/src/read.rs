@@ -1,3 +1,4 @@
+/*
 use std::io::Read;
 
 use failure_derive::*;
@@ -69,3 +70,4 @@ pub(super) fn into_fixed_buffer(
         DbResult::ok()
     }
 }
+*/

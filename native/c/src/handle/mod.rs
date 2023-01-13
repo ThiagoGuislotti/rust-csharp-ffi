@@ -1,3 +1,4 @@
+/*
 use std::{
     marker::PhantomData,
     panic::{
@@ -209,3 +210,4 @@ impl<'a, T: ?Sized> IsNull for Out<'a, T> {
         self.0.is_null()
     }
 }
+*/
